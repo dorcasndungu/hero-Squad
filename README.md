@@ -16,7 +16,7 @@ java spark and handlebars as the template engine.
 If you want to view the code or change some elements on the website, you are welcomed to clone the project
 
 ```git
-git clone git@github.com:TrekHub/Heroes-Lounge-Java.git
+git clone git@github.com:dorcasndungu/hero-Squad.git
 
 ```
 
